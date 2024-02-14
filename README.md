@@ -1,6 +1,6 @@
 ## Projeto base para a aula de CI/CD do meu canal do Youtube.
 
-### Período do evento: 18 a 24 de Março/2024 (Online e ao Vivo às 20h)
+### Abaixo você vai encontrar o link para inscrição no próximo evento (Online e ao Vivo às 20h)
 
 [>> Página de Inscrição do evento](https://org.imersaoaws.com.br/github/aula-cicd)
 
