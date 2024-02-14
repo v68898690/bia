@@ -6,4 +6,4 @@
 
 #### Link da aula ####
 
-[>> Assistir aula de CI/CD do meu canala](https://org.imersaoaws.com.br/github/aula-cicd)
+[>> Assistir aula de CI/CD do meu canal](https://youtu.be/O2TbkEhpfBE)
