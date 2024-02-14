@@ -1,10 +1,9 @@
-## Projeto base para o evento Bootcamp Imersão AWS que irei realizar.
+## Projeto base para a aula de CI/CD do meu canal do Youtube.
 
-### Período do evento: 15 a 21 de Janeiro/2024 (Online e ao Vivo às 20h)
+### Período do evento: 18 a 24 de Março/2024 (Online e ao Vivo às 20h)
 
-[>> Página de Inscrição do evento](https://org.imersaoaws.com.br/github/readme)
+[>> Página de Inscrição do evento](https://org.imersaoaws.com.br/github/aula-cicd)
 
-#### Para rodar as migrations no container ####
-```
-docker compose exec server bash -c 'npx sequelize db:migrate'
-```
+#### Link da aula ####
+
+[>> Assistir aula de CI/CD do meu canala](https://org.imersaoaws.com.br/github/aula-cicd)
